@@ -1,9 +1,8 @@
-// SPDX-License-Identifier: GPL-2.0
+// SPDX-License-Identifier: GPL-3.0
 /*
- * Copyright (C) 2010-2011 Canonical Ltd <jeremy.kerr@canonical.com>
- * Copyright (C) 2011-2012 Mike Turquette, Linaro Ltd <mturquette@linaro.org>
+ * Copyright (C) 2024 Henning Paul <hnch@gmx.net>
  *
- * Fixed rate clock implementation
+ * IIO clock proxy
  */
 
 #include <linux/clk-provider.h>
